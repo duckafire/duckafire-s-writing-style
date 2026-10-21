@@ -1,6 +1,6 @@
 # Requirement level indicator keywords
 
-> The text excerpt below was built with parts of the content from [RFC 2119][] and [RFC 8174][]; this document was created to be a local updated copy of that content.
+> The text excerpt below was built with parts of the content from [RFC 2119][] and [RFC 8174][], from [BCP 14][]; this document was created to be a local updated copy of that content.
 >
 > All credits to the original author are in the document footer.
 
@@ -68,6 +68,8 @@ Note that the force of these words is modified by the requirement level of the d
 
    email - &lt;<sob@harvard.edu>>
 
+[BCP 14]: https://datatracker.ietf.org/doc/bcp14/
+  "Set formed with RFC 2119 and RFC 8174"
 
 [RFC 2119]: https://www.rfc-editor.org/info/rfc2119/
   "RFC 2119: keywords to indicate Requirement Levels"
